@@ -1,0 +1,17 @@
+name: BrokenProject
+description: 'pbt_project.yaml is unreadable: `Missing project file pbt_project.yml`'
+version: 1
+author: null
+workflows:
+  workflows/work1:
+    name: work1
+    description: null
+    author: kshitiz@prophecy.io
+    mode: batch
+    language: scala
+    createdAt: '2022-01-07 14:26:51'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules: {}
