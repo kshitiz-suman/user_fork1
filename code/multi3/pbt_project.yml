@@ -1,0 +1,17 @@
+name: multi3
+description: User fork
+version: 1
+author: kshitiz@prophecy.io
+workflows:
+  workflows/workflow11111:
+    name: workflow11111
+    description: null
+    author: kshitiz@prophecy.io
+    mode: batch
+    language: scala
+    createdAt: '2022-01-07 14:32:42'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules: {}
